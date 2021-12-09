@@ -1,4 +1,5 @@
 import math
+
 m, n = map(int, input().split())
 
 arr = [1 for i in range(n+2)]
